@@ -12,20 +12,17 @@
  also aims to implement machine learning models for predicting high-performing players.
   
 **Description:**
-    The project involves analyzing player data to uncover key performance trends and relationships 
-    between metrics.
 
+   The project involves analyzing player data to uncover key performance trends and relationships 
+    between metrics.
+    
  **Key Metrics:** Influence, creativity, goals scored, assists, clean sheets, total points, and cost.
  **Techniques:** Exploratory Data Analysis (EDA) to identify patterns, correlations, and outliers.
  **Modeling:** Machine learning (Random Forest Classifier) to predict dream team players.
  **Challenges:** Class imbalance in dream team predictions and the need for advanced feature engineering.
      
 **Skills:**
-  - **Data Analysis:** Python (Pandas, NLTK, sci-kit-learn)
-  - **Data Visualization:** Python (Matplotlib, WordCloud)
-  - **Tools:** Jupyter Notebook for analysis and visualization
 
-**Skills:**
   - **Data Analysis:** EDA, correlation analysis, and cost-effectiveness evaluation.
   - **Machine Learning:** Classification models, feature selection, and class imbalance handling.
   - **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn).
